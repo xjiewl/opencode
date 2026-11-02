@@ -101,9 +101,15 @@ Learn more about [agents](https://opencode.ai/v2/docs/agents).
 
 For more info on how to configure OpenCode, [**head over to our docs**](https://opencode.ai/v2/docs).
 
-### Contributing
+Qwen Code：对接国产模型最顺，安装简单，国内网络没障碍，适合第一步。
+Qwen Code：https://github.com/QwenLM/qwen-code
+中文文档：https://qwenlm.github.io/qwen-code-docs/zh/
 
-If you're interested in contributing to OpenCode, please read our [contributing docs](./CONTRIBUTING.md) before submitting a pull request.
+OpenCode：成熟稳定，不绑定模型，选择最多，想换模型时最灵活。
+OpenCode：https://github.com/anomalyco/opencode（旧名 sst/opencode，旧地址可能会跳转）
+
+OpenMausBot：最后再考虑。项目很新（版本号还是 0.1.x），底层依赖的助手在国内不一定好用，还涉及邮箱注册、使用统计和第三方云服务。
+OpenMausBot：https://github.com/milind-soni/OpenMausBot
 
 ### Building on OpenCode
 
